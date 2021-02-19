@@ -28,9 +28,9 @@ If you select the version with GUI, a new window will pop up whenever it reaches
 Supplemental Table 1. General ranges of lower threshold values for channel HSV S. 
 Threshold values are mostly dependent on the amount of non-moss material in an image, lighting and the colouration of the Sphagnum. 
 
-Image characterisation				Lower threshold range			Lower threshold mean			Upper threshold
-
-Pale discoloured Sphagnum, bright image		80-140							107 						256
-Wet saturated, dark image					50-200							157							256
-Intermediates								50-180							110							256
-Mean value (default)														125							256
+|Image characterisation				|Lower threshold range			|Lower threshold mean			|Upper threshold |
+| --------------					| ------------- 				| -------------- 				| -------------- |
+|Pale discoloured Sphagnum, bright image 	|80-140					|		107 					|	256			|
+|Wet saturated, dark image					|50-200					|		157						|	256 |
+|Intermediates								|50-180					|		110						|	256 |
+|Mean value (default)						|						|		125						|	256 |
